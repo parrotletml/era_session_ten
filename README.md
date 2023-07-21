@@ -6,7 +6,7 @@
 * Used Lable Smoothing to improve model convergence
 * One Cycle LR to get faster convergence
 * [Notebook](./CIFAR_DAVIDNET_94.12.ipynb) with experiment attached
-* [Weights](./weights/cifar_davidnet_94.12.onnx) for trained model attached
+* [Weights](./weights/cifar_davidnet_94.12.onnx.tar.xz) for trained model attached
 
 ---
 
